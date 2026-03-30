@@ -36,7 +36,7 @@ Saya senang menghidupkan desain dan membuat web lebih indah serta fungsional.
 
 ## 🎨 Sisi Kreatif
 
-- ✏️ Hobi menggambar dan digital art
+- ✏️ Hobi menggambar dan traditional art
 - 🎶 Suka mendengarkan lagu-lagu patriotik dan bersejarah
 - 🎨 Bercita-cita menjadi Developer atau Ilustrator profesional
 
