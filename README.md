@@ -1,11 +1,11 @@
 # Halo, saya M. Ari Zainal Mutaqin! 👋
 
 Selamat datang di profil GitHub saya!  
-Saya seorang **Full-Stack Developer** sekaligus pelajar yang bersemangat untuk mewujudkan ide-ide melalui kode dan kreativitas.
+Saya seorang **Front-End Developer** sekaligus pelajar yang bersemangat untuk mewujudkan ide-ide melalui kode dan kreativitas.
 
 ## 🚀 Tentang Saya
 
-Saat ini saya berstatus sebagai pelajar dan sedang membangun perjalanan saya sebagai **Full-Stack Developer** dengan fokus khusus pada web styling dan user experience.  
+Saat ini saya berstatus sebagai pelajar dan sedang membangun perjalanan saya sebagai **Front-End Developer** dengan fokus khusus pada web styling dan user experience.  
 Saya senang menghidupkan desain dan membuat web lebih indah serta fungsional.
 
 ## 💻 Keahlian Utama
