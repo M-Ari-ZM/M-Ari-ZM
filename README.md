@@ -42,10 +42,10 @@ Saya senang menghidupkan desain dan membuat web lebih indah serta fungsional.
 
 ## 🤝 Hubungi Saya
 
-- **Instagram:** [@instagram-mu](https://instagram.com)
-- **YouTube:** [YouTube Channelmu](https://youtube.com)
-- **LinkedIn:** [Profil LinkedIn mu](https://linkedin.com)
-- **Email:** [emailkamu@example.com](mailto:emailkamu@example.com)
+- **Instagram:** [@instagram-mu](https://www.instagram.com/arizm258)
+- **YouTube:** [YouTube Channelmu](https://youtube.com/@m-ari-zm)
+- **LinkedIn:** [Profil LinkedIn mu](https://www.linkedin.com/in/ari-zm-556a963a4)
+- **Email:** [emailkamu@example.com](mailto:azm8216@gmail.com)
 
 ## 🎯 Target 2026
 
