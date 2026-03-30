@@ -1,16 +1,59 @@
-## Hi there 👋
+# Halo, saya M-Ari-ZM! 👋
 
-<!--
-**M-Ari-ZM/M-Ari-ZM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Selamat datang di profil GitHub saya!  
+Saya seorang **Full-Stack Developer** sekaligus pelajar yang bersemangat untuk mewujudkan ide-ide melalui kode dan kreativitas.
 
-Here are some ideas to get you started:
+## 🚀 Tentang Saya
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Saat ini saya berstatus sebagai pelajar dan sedang membangun perjalanan saya sebagai **Full-Stack Developer** dengan fokus khusus pada web styling dan user experience.  
+Saya senang menghidupkan desain dan membuat web lebih indah serta fungsional.
+
+## 💻 Keahlian Utama
+
+- **Web Styling:** HTML, CSS, Tailwind CSS
+- **Pemrograman:** JavaScript (sedang belajar React!)
+- **Pembelajaran:** Terus mengasah kemampuan di React dan front-end development modern
+
+## 🛠️ Teknologi yang Digunakan
+
+- **Bahasa:** HTML, CSS, JavaScript
+- **Framework:** Tailwind CSS, (sedang belajar) React
+- **Spesialisasi:** Desain web yang bersih dan responsif
+
+## 🌟 Proyek Unggulan
+
+- **[Tank-Pedia](https://github.com/M-Ari-ZM/Tank-Pedia)**  
+  Sumber informasi andalan tentang berbagai tank!
+
+- **[Fintory](https://github.com/M-Ari-ZM/Fintory)**  
+  Proyek yang saat ini saya kembangkan, fokus pada praktik web modern dan tools finansial.
+
+## 🌱 Fokus Saat Ini
+
+- Memperdalam pemahaman React
+- Mengembangkan [Fintory](https://github.com/M-Ari-ZM/Fintory) dengan fitur-fitur terkini
+- Menyempurnakan UI yang bersih dan responsif dengan Tailwind CSS
+
+## 🎨 Sisi Kreatif
+
+- ✏️ Hobi menggambar dan digital art
+- 🎶 Suka mendengarkan lagu-lagu patriotik dan bersejarah
+- 🎨 Bercita-cita menjadi Developer atau Ilustrator profesional
+
+## 🤝 Hubungi Saya
+
+- **Instagram:** [@instagram-mu](https://instagram.com)
+- **YouTube:** [YouTube Channelmu](https://youtube.com)
+- **LinkedIn:** [Profil LinkedIn mu](https://linkedin.com)
+- **Email:** [emailkamu@example.com](mailto:emailkamu@example.com)
+
+## 🎯 Target 2026
+
+- ✨ Menjadi developer atau ilustrator profesional
+- 🚀 Merilis proyek-proyek keren seperti Fintory dan lainnya
+- 📚 Menguasai React dan teknologi web modern
+- 🌍 Berkembang sebagai kreator dan pemecah masalah
+
+---
+
+**Terima kasih telah mampir! Jika ingin berkolaborasi, diskusi proyek, atau ngobrol soal desain dan web development, silakan email saya!** 🚀
