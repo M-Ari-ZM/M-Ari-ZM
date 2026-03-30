@@ -1,4 +1,4 @@
-# Halo, saya M-Ari-ZM! 👋
+# Halo, saya M. Ari Zainal Mutaqin! 👋
 
 Selamat datang di profil GitHub saya!  
 Saya seorang **Full-Stack Developer** sekaligus pelajar yang bersemangat untuk mewujudkan ide-ide melalui kode dan kreativitas.
@@ -42,10 +42,10 @@ Saya senang menghidupkan desain dan membuat web lebih indah serta fungsional.
 
 ## 🤝 Hubungi Saya
 
-- **Instagram:** [@instagram-mu](https://www.instagram.com/arizm258)
-- **YouTube:** [YouTube Channelmu](https://youtube.com/@m-ari-zm)
-- **LinkedIn:** [Profil LinkedIn mu](https://www.linkedin.com/in/ari-zm-556a963a4)
-- **Email:** [emailkamu@example.com](mailto:azm8216@gmail.com)
+- **Instagram:** [@arizm258](https://www.instagram.com/arizm258)
+- **YouTube:** [@M-Ari-ZM](https://youtube.com/@m-ari-zm)
+- **LinkedIn:** [Ari ZM](https://www.linkedin.com/in/ari-zm-556a963a4)
+- **Email:** [azm8216@gmail.com](mailto:azm8216@gmail.com)
 
 ## 🎯 Target 2026
 
