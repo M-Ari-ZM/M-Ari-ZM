@@ -43,11 +43,12 @@ Berikut adalah beberapa proyek yang sedang dan telah saya kembangkan:
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 Pencapaian GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-Ari-ZM&show_icons=true&theme=visual_studio_dark&locale=id&cache_seconds=86400" alt="Statistik GitHub Ari" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Ari-ZM&layout=compact&theme=visual_studio_dark&locale=id&cache_seconds=86400" alt="Bahasa yang Sering Digunakan" height="150" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=M-Ari-ZM&theme=visual_studio_dark&column=4" alt="GitHub Trophy" />
+  </a>
 </p>
 
 ---
