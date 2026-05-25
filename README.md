@@ -39,7 +39,7 @@ Berikut adalah beberapa proyek yang sedang dan telah saya kembangkan:
 *   **🛡️ [Tank-Pedia](https://github.com/M-Ari-ZM/Tank-Pedia)**  
     *Sumber informasi andalan mengenai sejarah, spesifikasi, dan visual berbagai macam tank militer.*
 *   **📊 [Fintory](https://github.com/M-Ari-ZM/Fintory)**  
-    *Aplikasi berbasis web modern yang difokuskan sebagai tools finansial dan manajemen tabungan. Proyek aktif tempat saya mengimplementasikan praktik front-end terbaru.*
+    *Aplikasi berbasis web modern yang difokuskan sebagai tools finansial dan manajemen tabungan. Proyek yang dijadikan Project Capstone tim saya*
 
 ---
 
