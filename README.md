@@ -39,15 +39,15 @@ Berikut adalah beberapa proyek yang sedang dan telah saya kembangkan:
 *   **🛡️ [Tank-Pedia](https://github.com/M-Ari-ZM/Tank-Pedia)**  
     *Sumber informasi andalan mengenai sejarah, spesifikasi, dan visual berbagai macam tank militer.*
 *   **📊 [Fintory](https://github.com/M-Ari-ZM/Fintory)**  
-    *Aplikasi berbasis web modern yang difokuskan sebagai tools finansial dan manajemen tabungan. Proyek yang dijadikan Project Capstone tim saya*
+    *Aplikasi berbasis web modern yang difokuskan sebagai tools finansial dan manajemen tabungan. Proyek yang dijadikan Project Capstone tim saya pada Coding Camp 2026 powered by DBS Foundation.*
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-Ari-ZM&show_icons=true&theme=visual_studio_dark&locale=id" alt="Statistik GitHub Ari" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Ari-ZM&layout=compact&theme=visual_studio_dark&locale=id" alt="Bahasa yang Sering Digunakan" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=M-Ari-ZM&show_icons=true&theme=visual_studio_dark&locale=id&cache_seconds=86400" alt="Statistik GitHub Ari" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Ari-ZM&layout=compact&theme=visual_studio_dark&locale=id&cache_seconds=86400" alt="Bahasa yang Sering Digunakan" height="150" />
 </p>
 
 ---
