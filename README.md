@@ -28,7 +28,7 @@ Meskipun masih terus belajar, berikut adalah teknologi yang aktif saya gunakan u
 | :--- | :--- |
 | **Bahasa & Web Core** | <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black" alt="JavaScript"> |
 | **Framework & Styling** | <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React"> *(Learning)* |
-| **Alat Desain & Lainnya** | <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" alt="Git"> ✏️ Traditional Art & Sketching |
+| **Alat Desain & Lainnya** | <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/✎ᝰ.-Traditional_Art_&_Sketching-blue"> |
 
 ---
 
