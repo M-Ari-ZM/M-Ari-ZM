@@ -40,6 +40,8 @@ Berikut adalah beberapa proyek yang sedang dan telah saya kembangkan:
     *Sumber informasi andalan mengenai sejarah, spesifikasi, dan visual berbagai macam tank militer.*
 *   **📊 [Fintory](https://github.com/M-Ari-ZM/Fintory)**  
     *Aplikasi berbasis web modern yang difokuskan sebagai tools finansial dan manajemen tabungan. Proyek yang dijadikan Project Capstone tim saya pada Coding Camp 2026 powered by DBS Foundation.*
+*   **📝 [Daily Notes](https://github.com/M-Ari-ZM/DailyNotes)**  
+    *Aplikasi jurnal pribadi digital berbasis Android yang dirancang untuk membantu pengguna mencatat aktivitas, ide, dan memori harian secara cepat, aman, dan efisien.*
 
 ---
 
