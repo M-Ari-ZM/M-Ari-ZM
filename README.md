@@ -37,7 +37,7 @@ Meskipun masih terus belajar, berikut adalah teknologi yang aktif saya gunakan u
 Berikut adalah beberapa proyek yang sedang dan telah saya kembangkan:
 
 *   **🛡️ [Tank-Pedia](https://github.com/M-Ari-ZM/Tank-Pedia)**  
-    *Sumber informasi andalan mengenai sejarah, spesifikasi, dan visual berbagai macam tank militer.*
+    *Proyek web statis mengenai sejarah, spesifikasi, dan visual berbagai macam tank militer.*
 *   **📊 [Fintory](https://github.com/M-Ari-ZM/Fintory)**  
     *Aplikasi berbasis web modern yang difokuskan sebagai tools finansial dan manajemen tabungan. Proyek yang dijadikan Project Capstone tim saya pada Coding Camp 2026 powered by DBS Foundation.*
 *   **📝 [Daily Notes](https://github.com/M-Ari-ZM/DailyNotes)**  
