@@ -11,9 +11,9 @@
 
 ### 🚀 Tentang Saya
 
-Saya seorang **Front-End Developer** sekaligus pelajar yang bersemangat untuk mewujudkan ide-ide kreatif menjadi kode yang fungsional. Fokus utama saya adalah pada **Web Styling** dan **User Experience (UX)**—menghidupkan desain, serta memastikan web berjalan dengan indah dan responsif.
+Saya seorang **Front-End Developer** sekaligus pelajar yang gemar mewujudkan ide-ide kreatif menjadi kode yang fungsional. Fokus utama saya saat ini adalah pada **Web Styling** dan **User Experience (UX)**.
 
-Di luar coding, saya memiliki ketertarikan kuat pada seni visual, sejarah, dan senang mengeksplorasi ide-ide baru baik lewat program maupun karya ilustrasi.
+Di luar coding, saya memiliki ketertarikan kuat pada seni visual, sejarah, dan senang mengeksplorasi ide-ide baru baik lewat program, pemikiran, maupun karya ilustrasi.
 
 - 📈 **Target Saat Ini:** Memperdalam ekosistem React dan membangun tools yang bermanfaat.
 - 🎯 **Visi 2026:** Berkembang menjadi seorang Developer atau Ilustrator profesional yang adaptif dan solutif.
